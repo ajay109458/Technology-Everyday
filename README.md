@@ -10,6 +10,16 @@
 * Day8 - Kotlin
 * Day9 - Tensorflow
 * Day10 - Bigdata
+* Day11 - AWS
+
+Databases
+* Day12 -  Azure document database
+* Day13 - Dynamo Db
+* Day14 - H2 database
+* Day15 - MySQL
+* Day16 - PostgresSQL
+* Day17 - MongoDB
+
 
 
 References
